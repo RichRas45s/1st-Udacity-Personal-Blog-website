@@ -15,7 +15,7 @@ no matter how many tutorials I have watched, the concepts min-width max-width ar
 THANKS .  please review  -->
 
 1/1/2024 Happy New Year
-Richard Riagud Personal Blog Website 
+Richard Rigaud Personal Blog Website 
 
 
 added media queries formatted to 480px wide screen
