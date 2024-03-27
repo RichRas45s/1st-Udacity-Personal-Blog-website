@@ -22,4 +22,5 @@ added media queries formatted to 480px wide screen
 a second grid layout was used .
 
 
-Thanks .  please review.. 
+preview link  
+https://frolicking-monstera-566a7f.netlify.app/
